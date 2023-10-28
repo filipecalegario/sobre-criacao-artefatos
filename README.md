@@ -1,2 +1,1 @@
-# sobre-criacao-artefatos
-reflexões sobre a criação de artefatos
+# sobre a criação de artefatos
